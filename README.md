@@ -8,4 +8,7 @@ Requirements<br>
 
 How to use<br>
 -프로그램 속 uid와 pwd변수에 문자열로 자신의 아이디, 비번을 넣어주세요.<br>
--doNotWatch 리스트에 듣지 않을 과목을 넣어 설정할 수 있습니다. 건국대 Ecampus의 todolist속 "[온라인강의] "를 제외한 강의 제목을 넣어두면 생략 후 넘어갑니다.
+-doNotWatch 리스트에 듣지 않을 과목을 넣어 설정할 수 있습니다. 건국대 Ecampus의 todolist속 "[온라인강의] "를 제외한 강의 제목을 넣어두면 생략 후 넘어갑니다.<br>
+
+Warnings<br>
+-잦은 사용으로 인한 성적 하락과 등록금 낭비는 책임지지 않습니다. 교수님이 넘겨도 된다한 강의에만 <br>
