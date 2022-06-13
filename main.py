@@ -24,7 +24,7 @@ import time
 
 URL = 'http://ecampus.konkuk.ac.kr/ilos/main/main_form.acl'
 
-driver = webdriver.Chrome(executable_path='chromedriver.exe')
+driver = webdriver.Chrome(executable_path='./chromedriver.exe')
 
 driver.get(url=URL)
 
