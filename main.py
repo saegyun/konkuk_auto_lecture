@@ -1,7 +1,7 @@
 #본인 크롬버전에 맞는 chromedriver를 설치해 main.py파일과 같은 경로에 넣어주세요.
 
-uid = "arsnc33" #건국대 이캠퍼스 id
-pwd = "powered0807@" #건국대 이캠퍼스 pwd
+uid = "" #건국대 이캠퍼스 id
+pwd = "" #건국대 이캠퍼스 pwd
 doNotWatch = ["미래를 그려보기","10.1 수열"] #Todo list에서 앞의 "[온라인강의] "를 제외하고 적어주세요. 
 
 #위쪽 설정을 마치고 실행시켜주세요.
